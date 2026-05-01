@@ -37,22 +37,13 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C++
-
-**Machine Learning:**
-PyTorch, TensorFlow, Scikit-learn
-
-**NLP & LLMs:**
-BERT, Sentence-BERT, RAG, FAISS, Embeddings
-
-**Computer Vision:**
-OpenCV, YOLOv8, Object Detection & Tracking
-
-**Backend & Systems:**
-FastAPI, Streamlit, Real-time Systems
-
-**Tools:**
-Git, Docker, Linux, NumPy, Pandas
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 
 ---
 
