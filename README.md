@@ -1,87 +1,60 @@
-# Hi, I'm Hrutuparna 👋
+# Hrutuparna Bedekar
 
-🎓 B.Tech CSE @ IIIT Nagpur
-🤖 Focused on Computer Vision, LLMs, and Multimodal AI
-🏆 Hackathon Winner (Marketwise 2026)
+B.Tech Computer Science student at IIIT Nagpur with a focus on machine learning systems, computer vision, and large language models.
 
----
-
-## 🚀 Projects
-
-### 🔍 VioTrack — Real-Time Multi-Object Tracking
-
-* Built real-time tracking system using YOLOv8 + ByteTrack
-* Implemented object counting and trajectory analysis
-* Optimized pipeline for low-latency video processing
-  [🔗 https://github.com/Hrutuparna-bedekar](https://github.com/Hrutuparna-bedekar/VioTrack)
+I work on building real-time AI pipelines, retrieval-based systems, and scalable ML applications, with an emphasis on performance and practical deployment.
 
 ---
 
-### 🤖 Research Agent — LLM-based Autonomous System
+## About
 
-* Designed multi-step reasoning agent with tool usage
-* Implemented RAG with vector embeddings + semantic search
-* Built modular pipeline (query → retrieval → response)
-  [🔗 https://github.com/Hrutuparna-bedekar](https://github.com/Hrutuparna-bedekar/Research-Agent)
-
----
-
-### 📊 Repo Analyzer — GitHub Intelligence Tool
-
-* Extracted structured insights from repositories
-* Built pipelines for metadata processing + visualization
-* Automated repo summarization
-  [🔗 https://github.com/Hrutuparna-bedekar](https://github.com/Hrutuparna-bedekar/Repo-Analyzer)
+* Interested in Computer Vision and Multimodal AI
+* Working on LLM-based systems and RAG pipelines
+* Focused on efficient, real-time ML systems
+* Exploring representation learning and robust models
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
+
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
 
 ### Machine Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?logo=scikit-learn)
 
 ### NLP & LLMs
+
 ![BERT](https://img.shields.io/badge/-BERT-000)
 ![FAISS](https://img.shields.io/badge/-FAISS-000)
 ![RAG](https://img.shields.io/badge/-RAG-000)
 
 ### Computer Vision
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![YOLO](https://img.shields.io/badge/-YOLOv8-000)
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-000)
 
 ### Backend & Tools
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
 
 ---
 
+## Contribution Activity
 
-
-## 📊 GitHub Stats
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hrutuparna-bedekar&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrutuparna-bedekar\&theme=github-compact)
 
 ---
 
-## 📫 Connect
+## Contact
 
 * GitHub: https://github.com/Hrutuparna-bedekar
 * LinkedIn: https://www.linkedin.com/in/hrutuparna-bedekar-3890a1334/
-
----
-
-## ⚡ Currently
-
-* Building real-time AI systems
-* Exploring multimodal models
-* Working on scalable ML pipelines
